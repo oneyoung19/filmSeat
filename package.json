@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "alloyfinger": "^0.1.16",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "fastclick": "^1.0.6",
     "iscroll": "^5.2.0",
     "vue": "^2.5.2",
